@@ -5,7 +5,7 @@ C# dotnet asp mvc 4 project / angular
 C# dotnet asp mvc 4 project / angular
 
 
-hat Is This?
+What Is This?
 -------------
 
 This set of modules is intended to provide working examples of Drupal's
